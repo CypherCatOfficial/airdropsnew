@@ -1,0 +1,18 @@
+{
+  "name": "airdrop-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "type": "module",
+  "scripts": {
+    "aidrop": "tsx airdrop.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chaingraph-ts": "^0.2.1",
+    "dotenv": "^16.3.1",
+    "mainnet-js": "^2.5.0",
+    "tsx": "^4.19.1"
+  }
+}
